@@ -165,5 +165,26 @@ Some older records lacked email validation.
 Tool	Purpose
 Power BI Desktop	Data cleaning, transformation & dashboard creation
 Power Query Editor	Data preparation & standardization
+
+
+PowerBI-UnstructuredData-Project/
+│
+├── data/
+│   └── Unstructured Data - Power BI Training Participants.xlsx
+│
+├── dashboard/
+│   └── PowerBI_Dashboard.pbix
+│
+├── images/
+│   ├── Dashboard_Overview.png
+│   ├── Feedback_Insights.png
+│   └── City_Distribution.png
+│
+└── README.md
+
+
+
+
+
 Excel	Raw unstructured dataset
 DAX	Calculated columns & measures
